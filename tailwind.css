@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Boogie;
+    src: url("./public/Boogie.ttf") format("truetype");
+}
