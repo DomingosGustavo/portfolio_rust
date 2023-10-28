@@ -6,3 +6,9 @@
     font-family: Boogie;
     src: url("./public/Boogie.ttf") format("truetype");
 }
+@font-face {
+    font-family: 'PressStart';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf) format('truetype');
+  }

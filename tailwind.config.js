@@ -13,7 +13,10 @@ module.exports = {
         "2xl": "1400px",
       },
     },
-    
+    fontFamily: {
+        "boogieeee": ["Boogie", ],
+        ps2p: ["PressStart"]
+      }, 
     extend: {
       backgroundImage: {
         "grid-pattern": `linear-gradient(to right, rgba(128, 0, 128, 0.3) 0.5px, transparent 5px),
@@ -22,9 +25,7 @@ module.exports = {
       backgroundSize: {
         40: "50px 50px",
       },
-     fontFamily: {
-        "boogieeee": ["Boogie", ]
-      },  
+      
     },
   },
   variants: {

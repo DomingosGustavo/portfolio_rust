@@ -16,7 +16,7 @@ pub fn view() -> Html {
                 html! {
                     <div class="h-screen bg-black w-64 fixed left-0 top-0 overflow-auto shadow-xl shadow-fuchsia-600">
                         <div class="flex flex-row p-6">
-                            <h1 class="text-7xl mb-5 flex-1 font-boogieeee text-green-500">{"My App"}</h1>
+                            <span class="text-7xl mb-5 flex-1 font-extrabold font-ps2p text-fuchsia-800">{"DG"}</span>
                             <button
                                 class="p-3 bg-blue-500 text-white right-0 rounded flex-2 h-3"
                                 onclick={toggle_sidebar}>
